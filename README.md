@@ -5,7 +5,7 @@ Project created to replicate design made by [Abdullah Al Noman](https://www.figm
 
 ## Demo:
 
-<img src="https://raw.githubusercontent.com/Mosarto/streamingapp/master/demo/demo.gif" width="340" height="740" title="Screen Shoot">
+<img src="https://raw.githubusercontent.com/Mosarto/streamingapp/master/demo/demo.gif" width="340" height="760" title="Screen Shoot">
 
 <br/>
 
